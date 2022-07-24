@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1655101664 source:e:\me, myself and i\project c++\make 3d opengl\learning 3d\main.cpp
+	<iostream>
+	<stdlib.h>
+	<GL/glut.h>
+
+1426324528 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1426324528 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1653582263 source:e:\unsam\bu liza fitria, sst., m.t\komputer grafik\uas 3d\main.cpp
+	<iostream>
+	<stdlib.h>
+	<GL/glut.h>
+
+1653582263 source:e:\unsam\bu liza fitria, sst., m.t\komputer grafik\learning 3d\main.cpp
+	<iostream>
+	<stdlib.h>
+	<GL/glut.h>
+
+1657650235 source:e:\me, myself and i\c++ project\make 3d opengl\learning 3d\main.cpp
+	<iostream>
+	<stdlib.h>
+	<GL/glut.h>
+
